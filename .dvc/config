@@ -1,0 +1,6 @@
+[core]
+    analytics = false
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvcexample.raptor.com
+    endpointurl = https://minio.dev.eb-raptor.com
